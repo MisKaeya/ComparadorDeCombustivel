@@ -1,2 +1,2 @@
-# PBL
-Probleminhas que resolvi :p
+# Problem based learning - noções básicas de algoritmos
+Um pequeno sistema de comparação de preços de postos de gasolina, afim de firmar as noções acerca de condicionais, laços de repetição, variáveis, tipos de dado e lógica de programação. O projeto não traz maiores complexidades algorítmicas, visto que foi o primeiro projeto do programador, mas registra os passos iniciais na prática de códigos limpos, responsáveis e origiais. 
